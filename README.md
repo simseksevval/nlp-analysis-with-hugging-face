@@ -9,5 +9,6 @@
    * padding
    * transformers library with PyTorch and Tensorflow
 * After the first four exercises, the following large-scale projects were carried out:
-  ** vgd
+  * Sentiment Analysis (text classification) with PyTorch and Tensorflow
+
 
