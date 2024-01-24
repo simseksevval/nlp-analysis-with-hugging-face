@@ -1,6 +1,6 @@
 # NLP Analysis with Hugging Face
 * This notebook includes NLP analysis projects with Transformers library which belongs to Hugging Face.
-* The first four files are exercises. They include an understanding of:
+* The first four files are exercises. They include an understanding basics of:
    * pipelines
    * sentiment analysis
    * text generation
